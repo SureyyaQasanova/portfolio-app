@@ -60,10 +60,12 @@ const Footer = () => {
                                 style={{ color: "#fff", marginRight: "1rem" }}
                             />
                         </NavLink>
+                        <NavLink to="https://www.linkedin.com/in/sureyya-hasanova-6130a0271/">
                         <FaLinkedin
                             size={30}
                             style={{ color: "#fff", marginRight: "1rem" }}
                         />
+                        </NavLink>
                     </div>
                 </div>
             </div>

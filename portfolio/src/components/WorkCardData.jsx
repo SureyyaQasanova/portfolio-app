@@ -1,4 +1,5 @@
 import pro1 from "../assets/portfolio.png";
+import calculator from "../assets/calculator.png";
 
 const ProjectCardData = [
   {
@@ -8,6 +9,13 @@ const ProjectCardData = [
     view: "",
     source:""
   },
+  {
+    imgsrc: calculator,
+    title: "Calculator-App",
+    text:"I have created a dynamic calculator application using HTML, CSS, Javascrip",
+    view:"https://github.com/SureyyaQasanova/Calculator-App",
+    source:"https://celadon-mousse-08d0fb.netlify.app"
+  }
 ];
 
 export default ProjectCardData;

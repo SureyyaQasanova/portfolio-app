@@ -8,7 +8,7 @@ const PricingCard = () => {
         <div className="pricing">
             <h1 className="web">Web Development</h1>
             <div className="card-container">
-                <div className="card html">
+                <div className="card ">
                     <div className="face face1">
                         <div className="content">
                             <h3>- HTML & CSS-</h3>

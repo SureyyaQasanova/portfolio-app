@@ -7,7 +7,7 @@
 
 .hero-img::before {
     content: "";
-  background-image: url("https://miro.medium.com/max/1200/1*UcBALx6QpAX0NkZrG8tYIg.jpeg");
+  background-image: url("../assets/bc.jpg");
     background-size: cover;
     background-position: center top;
     height: 100%;
